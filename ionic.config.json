@@ -1,0 +1,7 @@
+{
+  "name": "social-fipo-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
